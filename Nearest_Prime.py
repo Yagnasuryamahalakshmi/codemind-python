@@ -25,5 +25,3 @@ for _ in range(n):
     else:
         nearest=nearest_prime(num)
         print(nearest)
-        
-        
